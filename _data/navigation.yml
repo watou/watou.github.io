@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Projects
+  url: /projects/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: teaser.jpg
+
+- title: Services
+  url: /services/
+  excerpt: "I offer these services to my clients"
+  image: teaser.jpg
+
+- title: About
+  url: /about/
+  excerpt: "About me and my development work"
+  image: teaser.jpg

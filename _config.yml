@@ -1,0 +1,33 @@
+# Site wide configuration
+
+title: Cocula Software/Consulting
+description: John Cocula software and web development.
+logo: me.png # 120x120 px default image used for Twitter summary card
+teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
+locale:
+url: 
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner: 
+  name: John Cocula
+  email: john@cocu.la
+  twitter: jcocula
+  google: +JohnCocula
+  bio: Developing software and web sites since such things existed.
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
