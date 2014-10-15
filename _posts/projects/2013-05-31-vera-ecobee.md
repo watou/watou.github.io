@@ -3,7 +3,7 @@ title: Vera Plugin for Ecobee Thermostats
 excerpt: "Control your Ecobee thermostats with Vera."
 layout: article
 categories: projects
-toc: true
+comments: true
 tags: vera ecobee thermostat plugin mios
 image:
   teaser: teaser-ecobee.jpg
