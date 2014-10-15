@@ -5,7 +5,8 @@ description: John Cocula software and web development.
 logo: me.png # 120x120 px default image used for Twitter summary card
 teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale:
-url: 
+baseurl: "/"
+url: "http://watou.github.io"
 
 # Jekyll configuration
 
