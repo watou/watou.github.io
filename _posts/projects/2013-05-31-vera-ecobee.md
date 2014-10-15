@@ -9,7 +9,7 @@ image:
   teaser: teaser-ecobee.jpg
 ---
 
-I wrote a plugin for the [Vera][] home controller that lets you monitor and control your [Ecobee][] thermostats.  The project page can be found [here](/vera-ecobee/).  I hope you like it.
+I wrote a plugin for the [Vera][] home controller that lets you monitor and control your [Ecobee][] thermostats.  The project's documentation can be found [here](/vera-ecobee/).  If you have a Vera home controller, you can install the plugin directly from your Vera.  I hope you like it.
 
 [Ecobee]: http://www.ecobee.com
 [Vera]: http://www.micasaverde.com
