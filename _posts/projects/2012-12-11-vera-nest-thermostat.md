@@ -9,4 +9,7 @@ image:
   teaser: teaser-nest.jpg
 ---
 
-I wrote a plugin for the [Vera][] home automation system that allows you to monitor and control your [Nest][] Learning Thermostats and Protect Smoke and CO detectors.  The project page is [here][(/vera-nest)].  If you have a Vera home controller, you can install it directly.  I hope you like it!
+I wrote a plugin for the [Vera][] home automation system that allows you to monitor and control your [Nest][] Learning Thermostats and Protect Smoke and CO detectors.  The project page is [here](/vera-nest/).  If you have a Vera home controller, you can install it directly.  I hope you like it!
+
+[Nest]: http://www.nest.com
+[Vera]: http://www.micasaverde.com
