@@ -4,7 +4,7 @@ excerpt: "Control your Ecobee thermostats with Vera."
 layout: article
 categories: projects
 comments: true
-tags: vera ecobee thermostat plugin mios
+tags: [vera, ecobee, thermostat, plugin, mios]
 image:
   teaser: teaser-ecobee.jpg
 ---
