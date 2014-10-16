@@ -1,6 +1,6 @@
 ---
 title: "Ecobee Binding for openHAB"
-excerpt: "Control your Ecobee thermostats with Vera."
+excerpt: "Control your Ecobee thermostats with openHAB."
 layout: article
 categories: projects
 comments: true
