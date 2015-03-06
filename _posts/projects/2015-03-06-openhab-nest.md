@@ -10,7 +10,7 @@ image:
 date: 2015-03-06T08:24:56+00:00
 ---
 
-I wrote a [binding][] for the [openHAB][] home automation bus that lets you monitor and control your [Nest][] thermostats and smoke+CO detectors.  The binding's wiki can be found [here](https://github.com/openhab/openhab/wiki/Nest-Binding).  If you install the openHAB software on a suitable system, you can install the binding by copying a JAR file into the `addons` directory and editing the `openhab.cfg` file.  I hope you like it.
+I wrote a binding for the [openHAB][] home automation bus that lets you monitor and control your [Nest][] thermostats and smoke+CO detectors.  The binding's wiki can be found [here](https://github.com/openhab/openhab/wiki/Nest-Binding).  If you install the openHAB software on a suitable system, you can install the binding by copying a JAR file into the `addons` directory and editing the `openhab.cfg` file.  I hope you like it.
 
 [Nest]: http://www.nest.com
 [openHAB]: http://www.openhab.org
