@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Code Forever</h2>
-  <p class="post-excerpt">I have been writing all kinds of code since when the Lambada was popular.  That's a very long time ago.</p>
+  <p class="post-excerpt">I have been writing all kinds of code since women wore shoulder pads and men had skinny neckties.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
