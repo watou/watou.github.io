@@ -4,7 +4,9 @@ layout: article
 permalink: /about/
 ---
 
-I first my first computer program in 1981 on an Apple ][ computer.  I had to type "PR#6" a lot.  While none of that means anything any more, the joy and fascination I get out of programming has stayed with me all these years.  I have immersed myself in many software design and engineering projects since then, always for the challenge of filling a void where there was a keen interest in a high quality solution.  I've written 16-bit kernel device drivers in assembly language, large commercial projects in Java, and designed and built successful e-commerce web sites using all of the current web languages and technologies.  I have used so many programming and markup languages that I would never be able to list them all.  (I am not as old as COBOL and I've never used it, so please don't ask about that one.)
+I first my first computer program in 1981 on an Apple ][ computer.  I had to type "PR#6" a lot.  While none of that means anything any more, the joy and fascination I get out of programming has stayed with me all these years.  
+
+I have immersed myself in many software design and engineering projects since then, always for the challenge of filling a void where there was a keen interest in a high quality solution.  I've written 16-bit kernel device drivers in assembly language, large commercial projects in Java, and designed and built successful e-commerce web sites using all of the current web languages and technologies.  I have used so many programming and markup languages that I would never be able to list them all.  (I am not as old as COBOL and I've never used it, so please don't ask about that one.)
 
 The general area I have spent the most time in is integration -- tying together technologies to produce a sum greater than its parts.  I have applied my interest in integration in different areas, including commercial enterprise management products, custom enterprise system integration for commercial clients, and in my current area of interest, the Internet of Things (IoT) and home automation.
 
