@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Code Forever</h2>
-  <p class="post-excerpt">I have been writing all kinds of code since before the death of disco.  That's a really long time.</p>
+  <p class="post-excerpt">I have been writing all kinds of code since when the Lambada was popular.  That's a very long time ago.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Code for Freedom</h2>
-  <p class="post-excerpt">I empower my users with clear, easy-to-use results that they can carry forward without me.</p>
+  <p class="post-excerpt">I empower my users with clear, simple, easy-to-use results that they can carry forward without me.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
